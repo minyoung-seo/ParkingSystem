@@ -1,0 +1,15 @@
+C:\Users\tjals\source\repos\UserAdminProgram\UserAdminProgram\bin\Debug\UserAdminProgram.exe.config
+C:\Users\tjals\source\repos\UserAdminProgram\UserAdminProgram\bin\Debug\UserAdminProgram.exe
+C:\Users\tjals\source\repos\UserAdminProgram\UserAdminProgram\bin\Debug\UserAdminProgram.pdb
+C:\Users\tjals\source\repos\UserAdminProgram\UserAdminProgram\obj\Debug\UserAdminProgram.csproj.CoreCompileInputs.cache
+C:\Users\tjals\source\repos\UserAdminProgram\UserAdminProgram\obj\Debug\UserAdminProgram.exe
+C:\Users\tjals\source\repos\UserAdminProgram\UserAdminProgram\obj\Debug\UserAdminProgram.pdb
+C:\Users\tjals\source\repos\UserAdminProgram\UserAdminProgram\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tjals\source\repos\UserAdminProgram\UserAdminProgram\bin\Debug\Google.Protobuf.dll
+C:\Users\tjals\source\repos\UserAdminProgram\UserAdminProgram\bin\Debug\MySql.Data.dll
+C:\Users\tjals\source\repos\UserAdminProgram\UserAdminProgram\bin\Debug\Renci.SshNet.dll
+C:\Users\tjals\source\repos\UserAdminProgram\UserAdminProgram\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tjals\source\repos\UserAdminProgram\UserAdminProgram\bin\Debug\Google.Protobuf.xml
+C:\Users\tjals\source\repos\UserAdminProgram\UserAdminProgram\bin\Debug\MySql.Data.xml
+C:\Users\tjals\source\repos\UserAdminProgram\UserAdminProgram\bin\Debug\Renci.SshNet.xml
+C:\Users\tjals\source\repos\UserAdminProgram\UserAdminProgram\obj\Debug\UserAdminProgram.csproj.CopyComplete
